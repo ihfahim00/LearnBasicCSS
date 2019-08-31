@@ -1,0 +1,28 @@
+.p{
+	color:blue;
+}
+#ph{
+	color:red;
+}
+.margin1{
+	margin: 25px 50px 75px 100px;
+	background-color: #e8cce6;
+}
+.margin2{
+	margin-top: 25px;
+	margin-bottom: 50px;
+	margin-right: 75px;
+	margin-left: 100px;
+	background-color: #e8cce6;
+}
+.padding1{
+ 	background-color: #c1e0c9;
+ 	padding: 25px 50px 75px 100px;
+}
+.padding2{
+	background-color: #c1e0c9;
+	padding-top: 25px;
+	padding-right: 50px;
+	padding-bottom: 75px;
+	padding-left: 100px;
+}
